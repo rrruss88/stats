@@ -1,6 +1,6 @@
 #!/usr/bin/Rscript
 
-x <- 1:10
+x <- 1:50 
 y <- sin(x)
 
 mean(x)
