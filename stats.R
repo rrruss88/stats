@@ -3,4 +3,4 @@
 x <- 1:50 
 y <- sin(x)
 
-mean(x)
+summary(x)
